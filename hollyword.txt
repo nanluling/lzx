@@ -1,0 +1,4 @@
+publ class word{
+	
+	
+}
