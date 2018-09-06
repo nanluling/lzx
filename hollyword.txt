@@ -1,4 +1,0 @@
-publ class word{
-	
-	
-}
